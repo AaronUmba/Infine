@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462580497789",
+    "firebase_url": "https://infine-7c4b4.firebaseio.com",
+    "project_id": "infine-7c4b4",
+    "storage_bucket": "infine-7c4b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462580497789:android:967b3e653d37a0ce",
+        "android_client_info": {
+          "package_name": "com.infined.infine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462580497789-kkkhsprpf3p6sqm0ef3iidn1e4jjmdsu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "462580497789-kkkhsprpf3p6sqm0ef3iidn1e4jjmdsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1bT8z6zayDq_fP8T1Aos0VzHGJ_8vNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
